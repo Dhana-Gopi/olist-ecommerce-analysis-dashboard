@@ -826,55 +826,6 @@ This project demonstrates practical knowledge of:
 
 ------------------------------------------------------------------------
 
-# 🎓 GUVI Evaluation Talking Points
-
-During the project presentation, the project can be explained using this
-flow:
-
-### 1. Business Problem
-
-> "The raw e-commerce data was distributed across nine related tables.
-> My objective was to transform this raw data into meaningful business
-> insights related to sales, customers, products, sellers, delivery,
-> payments, and customer satisfaction."
-
-### 2. Data Preparation
-
-> "I first performed data quality analysis, identified missing values,
-> duplicates, incorrect data types and inconsistencies, and then cleaned
-> and standardized the datasets."
-
-### 3. Database
-
-> "After cleaning, I loaded the datasets into MySQL according to the
-> relationships defined in the ER diagram."
-
-### 4. Analysis
-
-> "I used SQL and Python to perform exploratory analysis and created
-> business features such as order value, delivery days, customer order
-> count, seller revenue and repeat-customer indicators."
-
-### 5. Statistical Analysis
-
-> "I used three hypothesis tests: Welch's t-test for delivery
-> performance and review score, one-way ANOVA for product category and
-> order value, and Chi-Square for payment method and order status."
-
-### 6. Dashboard
-
-> "Finally, I connected MySQL to Streamlit and built an interactive
-> dashboard covering business overview, sales, customers, sellers,
-> products, delivery and customer experience."
-
-### 7. Business Value
-
-> "The analysis helps identify revenue drivers, customer behavior,
-> seller performance, delivery issues and factors associated with
-> customer satisfaction, supporting data-driven business decisions."
-
-------------------------------------------------------------------------
-
 # 🚀 Future Improvements
 
 Potential future enhancements include:
